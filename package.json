@@ -24,8 +24,8 @@
       "no-unused-vars": 1
     }
   },
-  "repository": "developit/express-es6-rest-api",
-  "author": "Jason Miller <jason@developit.ca>",
+  "repository": "alexpsi/express-es6-rest-api",
+  "author": "Alex Psi <alexpsi256@gmail.com>",
   "license": "MIT",
   "dependencies": {
     "body-parser": "^1.13.3",
@@ -33,7 +33,7 @@
     "cors": "^2.7.1",
     "express": "^4.13.3",
     "morgan": "^1.8.0",
-    "resource-router-middleware": "^0.6.0"
+    "nconf": "^0.10.0"
   },
   "devDependencies": {
     "babel-cli": "^6.9.0",
