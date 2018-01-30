@@ -17,6 +17,6 @@ app.get('/', function (req, res) {
   res.send('hello world')
 })
 
-app.server.listen(c('server:port'))
+app.server.listen(c.get('server:port'))
 
 export default app;
